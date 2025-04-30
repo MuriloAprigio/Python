@@ -22,4 +22,6 @@ pip install numpy
 pip install requests
 pip install pyodbc
 pip install openpyxl  # caso esteja usando arquivos Excel
+pip install streamlit
+
 
