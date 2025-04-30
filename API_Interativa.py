@@ -1,5 +1,5 @@
 # Para executar este app localmente com Streamlit, use o seguinte comando no terminal:
-# streamlit run api_interativa.py
+# py py -m streamlit run C:\Users\cliente\Downloads\API_Interativa.py -- use o caminho do seu arquivo
 
 import requests
 import streamlit as st
