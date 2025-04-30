@@ -1,4 +1,5 @@
-#py -m streamlit run c:/Users/cliente/Desktop/Codes_py/Codigo_python/app.py -- app.py é como o arquivo está salvo na minha máquina
+# Para executar este app localmente com Streamlit, use o seguinte comando no terminal:
+# streamlit run api_interativa.py
 
 import requests
 import streamlit as st
