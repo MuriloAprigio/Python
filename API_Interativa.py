@@ -1,3 +1,5 @@
+#py -m streamlit run c:/Users/cliente/Desktop/Codes_py/Codigo_python/app.py -- app.py é como o arquivo está salvo na minha máquina
+
 import requests
 import streamlit as st
 
